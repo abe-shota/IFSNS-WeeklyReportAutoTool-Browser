@@ -7,7 +7,7 @@
     "types": [
       "node"
     ],
-    "module": "commonjs",
+    "module": "es2022",
     "target": "es2022",
     "moduleResolution": "node",
     "esModuleInterop": true,
